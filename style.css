@@ -111,6 +111,10 @@ div > label {
     margin-bottom: 5px;
 }
 
+input {
+    border-radius: 8px;
+}
+
 input:focus {
     outline: none;
     border: 3px solid darkblue;
